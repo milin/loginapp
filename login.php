@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print">  
 <!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
 <div class="container showgrid"> 
-    <h1>MEMBER LOGIN</h1> 
+    <h1> LOGIN</h1> 
     <hr> 
     
 
